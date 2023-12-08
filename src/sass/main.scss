@@ -1,3 +1,9 @@
+@use 'base';
+@use 'components';
+@use 'layout';
+@use 'utilities';
+@use 'vendor';
+
 body {
     background-color: #333;
     color: #888;
